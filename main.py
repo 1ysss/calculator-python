@@ -4,7 +4,7 @@ from decimal import *
 print("Calculator made by kysss(kysss.ml)")
 
 root = Tk()
-root.title('Calculator')
+root.title('GUI Калькулятор')
 
 buttons = (('7', '8', '9', '/', '4'),
            ('4', '5', '6', '*', '4'),
